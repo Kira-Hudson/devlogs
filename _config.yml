@@ -8,6 +8,28 @@ baseurl: "/devlogs"
 url: "https://queenkirathepansexualpixie.github.io"
 github_username:  QueenKiraThePansexualPixie
 
+# Collections
+collections:
+  projects:
+    output: true
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: project
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+  - scope:
+      path: ""
+    values:
+      layout: default
+
 # Build settings
 theme: minima
 plugins:

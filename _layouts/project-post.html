@@ -1,0 +1,13 @@
+---
+layout: post
+---
+
+<blockquote>
+    {% assign projectPage = site.projects | where: 'project_id', page.project | first %}
+    {% if projectPage %}
+        <p>Project: <a href="{{ site.baseurl | append: projectPage.url }}">{{ projectPage.name }}</a></p>
+        <p>{{ projectPage.excerpt }}</p>
+    {% endif %}
+</blockquote>
+
+{{ content }}

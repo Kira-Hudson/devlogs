@@ -1,12 +1,10 @@
 ---
-layout: post
+layout: project-post
 title: "Omniartis Introduction"
 date: 2024-11-20 17:34:30
 categories: projects Omniartis
+project: omniartis
 ---
-
-> New Project: Omniartis  
-> Summary: A game about customisation and a unique experience in a broader story.
 
 Omniartis is a game focused on creating a unique and customisable experience to players. I started planning this game around July 2023 (16 odd months ago), and have been putting off creating it that whole time for fear of messing up my perfect vision of the game. I have come to realise that perfection doesn't matter. What does matter is doing stuff, and making some kind of change to the world, whether that be replacing the old, or just adding something new.
 
