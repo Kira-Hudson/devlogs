@@ -6,7 +6,7 @@ permalink: /about/
 
 {% assign firstPost = site.posts | first %}
 
-This is my Jekyll site for posting my dev logs to. See [Welcome to my Dev Log]({{ firstPost.url }}) for more details.
+This is my Jekyll site for posting my dev logs to. See [Welcome to my Dev Log]({{ site.baseurl | append: firstPost.url }}) for more details.
 
 ## About Me
 
