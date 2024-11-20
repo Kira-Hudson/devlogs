@@ -4,7 +4,7 @@ email: kirathepansexualpixie@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   A collection of my development logs.
 # baseurl: ""
-# baseurl: "devlogs"
+baseurl: "/devlogs"
 url: "https://queenkirathepansexualpixie.github.io"
 github_username:  QueenKiraThePansexualPixie
 
