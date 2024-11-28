@@ -38,7 +38,7 @@ Anyway, on to the milestones. I have compiled a list (subject to change) of the 
 | Content & Polishing    | For these last few weeks, I will simply add more content within the existing frameworks (items, NPCs, character customisation options, etc...) and polish off any bugs and issues I find along the way. | 2025-10-12 |
 | Wrap up and Release    | I will close the project and release the game for download.                                                                                                                                             | 2025-10-26 |
 
-I will likely be implementing a more Agile-like (than Waterfall-like, at least) approach, though much looser, for this project. I will be doing each milestone in the above order, moving on when I feel each is complete enough and coming back only if I find problems with that piece of the codebase, if I am making upgrades or updates, and when I come back at the end for polishing.
+I will be doing each milestone in the above order, moving on when I feel each is complete enough and coming back only if I find problems with that piece of the codebase, if I am making upgrades or updates, and when I come back at the end for polishing.
 
 ## Signoff
 

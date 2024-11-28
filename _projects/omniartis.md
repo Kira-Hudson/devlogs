@@ -39,4 +39,4 @@ Up-to-date milestones, with status updates.
 | Content & Polishing    |   --   | Add more content within existing frameworks (items, NPCs, etc...) and polish off bugs and issues                  | 2025-10-12 |
 | Wrap up and Release    |   --   | Close project and release game for download                                                                       | 2025-10-26 |
 
-I will likely be implementing a more Agile-like (than Waterfall-like, at least) approach, though much looser, for this project. I will be doing each milestone in the above order, moving on when I feel each is complete enough and coming back only if I find problems with that piece of the codebase, if I am making upgrades or updates, and when I come back at the end for polishing.
+I will be doing each milestone in the above order, moving on when I feel each is complete enough and coming back only if I find problems with that piece of the codebase, if I am making upgrades or updates, and when I come back at the end for polishing.
