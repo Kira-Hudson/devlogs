@@ -13,7 +13,7 @@ Up-to-date milestones, with status updates.
 
 | Milestone              | Status | Task/s                                                                                                            |    Due     |
 |------------------------|:------:|-------------------------------------------------------------------------------------------------------------------|:----------:|
-| Basic Bevy Setup       |   --   | Set up simple Bevy app with a 3D camera and object                                                                | 2024-12-01 |
+| Basic Bevy Setup       | **✓**  | Set up simple Bevy app with a 3D camera and object                                                                | 2024-12-01 |
 | Interaction Test       |   --   | Implement interaction with 3D object that produces visual change in scene                                         | 2024-12-08 |
 | Player Movement        |   --   | Implement forwards, backwards, and sideways player movement (+jumping)                                            | 2024-12-15 |
 | Test Scene with Tiles  |   --   | Create test scene with removable and replaceable 3D tiles. Optional skybox (single colour)                        | 2024-12-29 |
