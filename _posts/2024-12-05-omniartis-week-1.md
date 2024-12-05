@@ -1,7 +1,6 @@
 ---
 layout: project-post
 date: 2024-12-05
-categories: projects Omniartis
 project: omniartis
 ---
 

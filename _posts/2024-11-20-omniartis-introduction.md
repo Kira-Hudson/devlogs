@@ -2,7 +2,6 @@
 layout: project-post
 title: "Omniartis Introduction"
 date: 2024-11-20 17:34:30
-categories: projects Omniartis
 project: omniartis
 ---
 

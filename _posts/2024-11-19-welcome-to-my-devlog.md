@@ -2,7 +2,6 @@
 layout: post
 title: "Welcome to my Dev Log!"
 date: 2024-11-19 23:11:37
-categories: no-project
 ---
 
 Welcome to my Dev Log site. Here, I will be posting daily updates of my progress with personal projects, including any goals or ideas I have that day. I will provide a list of the tasks I had planned, the tasks I accomplished, the challenges and issues I encountered, any new ideas I had during development, and what needs to be covered next time in each of my logs.

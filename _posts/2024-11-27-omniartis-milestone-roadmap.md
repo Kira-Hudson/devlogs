@@ -2,7 +2,6 @@
 layout: project-post
 title: "Omniartis Milestone Roadmap"
 date: 2024-11-27 17:06:51
-categories: projects Omniartis
 project: omniartis
 ---
 
